@@ -2,7 +2,7 @@
 #define POKER_H_INCLUDED
 
 #include <iostream> 
-#include "refazendoListaEstatica.h" 
+
 
 struct TipoCarta {
     int naipe;
