@@ -1,9 +1,6 @@
 #ifndef POKER_H_INCLUDED
 #define POKER_H_INCLUDED
 
-#include <iostream> 
-
-
 struct TipoCarta {
     int naipe;
     int valor;
